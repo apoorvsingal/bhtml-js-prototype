@@ -1,0 +1,26 @@
+{
+	"html": {
+		"lang": 1,
+		"dir": 2
+	},
+	"head": {},
+	"meta": {
+		"http-equiv": 1,
+		"content": 2,
+		"name": 3
+	},
+	"title": {},
+	"link": {
+		"rel": 1,
+		"type": 2,
+		"href": 3,
+		"id": 4
+	},
+	"body": {
+		"style": 1
+	},
+	"iframe": {
+		"src": 1,
+		"id": 2
+	}
+}
